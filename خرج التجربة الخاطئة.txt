@@ -1,0 +1,62 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1156
+load:0x40078000,len:11456
+ho 0 tail 12 room 4
+load:0x40080400,len:2972
+entry 0x400805dc
+calibration: 1000 loops per ms
+---- t = 2588 ms ----
+distance   C= 2 T=  6 prio=1  runs= 333  worst= 11 ms  misses=100
+brakes     C= 3 T= 12 prio=2  runs= 167  worst=  9 ms  misses=0
+buzzer     C= 3 T= 15 prio=3  runs= 134  worst=  6 ms  misses=0
+display    C= 3 T= 60 prio=4  runs=  33  worst=  3 ms  misses=0
+---- t = 4628 ms ----
+distance   C= 2 T=  6 prio=1  runs= 673  worst= 11 ms  misses=202
+brakes     C= 3 T= 12 prio=2  runs= 337  worst=  9 ms  misses=0
+buzzer     C= 3 T= 15 prio=3  runs= 270  worst=  6 ms  misses=0
+display    C= 3 T= 60 prio=4  runs=  67  worst=  3 ms  misses=0
+---- t = 6668 ms ----
+distance   C= 2 T=  6 prio=1  runs=1013  worst= 11 ms  misses=304
+brakes     C= 3 T= 12 prio=2  runs= 507  worst=  9 ms  misses=0
+buzzer     C= 3 T= 15 prio=3  runs= 406  worst=  6 ms  misses=0
+display    C= 3 T= 60 prio=4  runs= 101  worst=  3 ms  misses=0
+---- t = 8708 ms ----
+distance   C= 2 T=  6 prio=1  runs=1353  worst= 11 ms  misses=406
+brakes     C= 3 T= 12 prio=2  runs= 677  worst=  9 ms  misses=0
+buzzer     C= 3 T= 15 prio=3  runs= 542  worst=  6 ms  misses=0
+display    C= 3 T= 60 prio=4  runs= 135  worst=  3 ms  misses=0
+---- t = 10748 ms ----
+distance   C= 2 T=  6 prio=1  runs=1693  worst= 11 ms  misses=508
+brakes     C= 3 T= 12 prio=2  runs= 847  worst=  9 ms  misses=0
+buzzer     C= 3 T= 15 prio=3  runs= 678  worst=  6 ms  misses=0
+display    C= 3 T= 60 prio=4  runs= 169  worst=  3 ms  misses=0
+---- t = 12788 ms ----
+distance   C= 2 T=  6 prio=1  runs=2033  worst= 11 ms  misses=610
+brakes     C= 3 T= 12 prio=2  runs=1017  worst=  9 ms  misses=0
+buzzer     C= 3 T= 15 prio=3  runs= 814  worst=  6 ms  misses=0
+display    C= 3 T= 60 prio=4  runs= 203  worst=  3 ms  misses=0
+---- t = 14828 ms ----
+distance   C= 2 T=  6 prio=1  runs=2373  worst= 11 ms  misses=712
+brakes     C= 3 T= 12 prio=2  runs=1187  worst=  9 ms  misses=0
+buzzer     C= 3 T= 15 prio=3  runs= 950  worst=  6 ms  misses=0
+display    C= 3 T= 60 prio=4  runs= 237  worst=  3 ms  misses=0
+---- t = 16868 ms ----
+distance   C= 2 T=  6 prio=1  runs=2713  worst= 11 ms  misses=814
+brakes     C= 3 T= 12 prio=2  runs=1357  worst=  9 ms  misses=0
+buzzer     C= 3 T= 15 prio=3  runs=1086  worst=  6 ms  misses=0
+display    C= 3 T= 60 prio=4  runs= 271  worst=  3 ms  misses=0
+---- t = 18908 ms ----
+distance   C= 2 T=  6 prio=1  runs=3053  worst= 11 ms  misses=916
+brakes     C= 3 T= 12 prio=2  runs=1527  worst=  9 ms  misses=0
+buzzer     C= 3 T= 15 prio=3  runs=1222  worst=  6 ms  misses=0
+display    C= 3 T= 60 prio=4  runs= 305  worst=  3 ms  misses=0
+---- t = 20948 ms ----
+distance   C= 2 T=  6 prio=1  runs=3393  worst= 11 ms  misses=1018
+brakes     C= 3 T= 12 prio=2  runs=1697  worst=  9 ms  misses=0
+buzzer     C= 3 T= 15 prio=3  runs=1358  worst=  6 ms  misses=0
+display    C= 3 T= 60 prio=4  runs= 339  worst=  3 ms  misses=0
